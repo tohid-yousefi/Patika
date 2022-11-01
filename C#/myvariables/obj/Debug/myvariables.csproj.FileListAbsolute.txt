@@ -1,0 +1,8 @@
+E:\Csharp\myvariables\myvariables\bin\Debug\myvariables.exe.config
+E:\Csharp\myvariables\myvariables\bin\Debug\myvariables.exe
+E:\Csharp\myvariables\myvariables\bin\Debug\myvariables.pdb
+E:\Csharp\myvariables\myvariables\obj\Debug\myvariables.csproj.AssemblyReference.cache
+E:\Csharp\myvariables\myvariables\obj\Debug\myvariables.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\myvariables\myvariables\obj\Debug\myvariables.csproj.CoreCompileInputs.cache
+E:\Csharp\myvariables\myvariables\obj\Debug\myvariables.exe
+E:\Csharp\myvariables\myvariables\obj\Debug\myvariables.pdb
