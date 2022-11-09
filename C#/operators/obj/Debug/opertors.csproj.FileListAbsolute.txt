@@ -1,0 +1,8 @@
+E:\Csharp\opertors\opertors\bin\Debug\opertors.exe.config
+E:\Csharp\opertors\opertors\bin\Debug\opertors.exe
+E:\Csharp\opertors\opertors\bin\Debug\opertors.pdb
+E:\Csharp\opertors\opertors\obj\Debug\opertors.csproj.AssemblyReference.cache
+E:\Csharp\opertors\opertors\obj\Debug\opertors.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\opertors\opertors\obj\Debug\opertors.csproj.CoreCompileInputs.cache
+E:\Csharp\opertors\opertors\obj\Debug\opertors.exe
+E:\Csharp\opertors\opertors\obj\Debug\opertors.pdb
