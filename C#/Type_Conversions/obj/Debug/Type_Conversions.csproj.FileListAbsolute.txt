@@ -1,0 +1,8 @@
+E:\Csharp\Type_Conversions\Type_Conversions\bin\Debug\Type_Conversions.exe.config
+E:\Csharp\Type_Conversions\Type_Conversions\bin\Debug\Type_Conversions.exe
+E:\Csharp\Type_Conversions\Type_Conversions\bin\Debug\Type_Conversions.pdb
+E:\Csharp\Type_Conversions\Type_Conversions\obj\Debug\Type_Conversions.csproj.AssemblyReference.cache
+E:\Csharp\Type_Conversions\Type_Conversions\obj\Debug\Type_Conversions.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\Type_Conversions\Type_Conversions\obj\Debug\Type_Conversions.csproj.CoreCompileInputs.cache
+E:\Csharp\Type_Conversions\Type_Conversions\obj\Debug\Type_Conversions.exe
+E:\Csharp\Type_Conversions\Type_Conversions\obj\Debug\Type_Conversions.pdb
