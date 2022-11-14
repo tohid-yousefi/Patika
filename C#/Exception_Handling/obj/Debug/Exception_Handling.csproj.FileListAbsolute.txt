@@ -1,0 +1,8 @@
+E:\Csharp\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+E:\Csharp\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.exe
+E:\Csharp\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.pdb
+E:\Csharp\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csproj.AssemblyReference.cache
+E:\Csharp\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+E:\Csharp\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.exe
+E:\Csharp\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.pdb
