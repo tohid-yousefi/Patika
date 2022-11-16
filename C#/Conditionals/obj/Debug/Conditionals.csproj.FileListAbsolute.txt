@@ -1,0 +1,8 @@
+E:\Csharp\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+E:\Csharp\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+E:\Csharp\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+E:\Csharp\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+E:\Csharp\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+E:\Csharp\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+E:\Csharp\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
