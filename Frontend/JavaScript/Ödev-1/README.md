@@ -2,7 +2,7 @@
 
 <hr />
 
-## Patika javascript dersleri kapsamında ödev-1 kısmını tamamaladık
+## Patika javascript dersleri kapsamında ödev-1 kısmını tamamladık
 
 **Ödev-1**
 
